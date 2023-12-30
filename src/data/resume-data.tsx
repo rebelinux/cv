@@ -20,33 +20,33 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Jonathan Colón Feliciano",
+  initials: "JCF",
+  location: "Salinas, Puerto Rico",
+  locationLink: "https://www.google.com/maps/place/Puerto+Rico",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "IT consultant who works for Zen PR Solutions. My primary interest is in infrastructure implementation and management, software development with focus on automation, devops and networking. I am also involved in security and open source contribution aspects of the projects and products I co-maintain.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://techmyth.info/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "jcolonf@zenprsolutions.com",
+    tel: "1787-203-2790",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/rebelinux",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/jcolonfzenpr/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/jcolonfzenpr",
         icon: XIcon,
       },
     ],
