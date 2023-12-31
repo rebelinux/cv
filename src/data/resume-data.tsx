@@ -80,7 +80,7 @@ export const RESUME_DATA = {
     {
       company: "Ana G. Mendez University",
       link: "https://uagm.edu",
-      badges: ["Server Administration", "VMware", "SAN", "NetApp", "Cisco", "SCCM"],
+      badges: ["Server Administration", "VMware", "SAN", "NAS",],
       title: "Server/Systems Administrator",
       logo: ClevertechLogo,
       start: "2012",
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     {
         company: "Ana G. Mendez University",
         link: "https://uagm.edu",
-        badges: ["Computer Repair", "SCCM", "Ghost", "ServiceDesk", "MDT", "HP Computers"],
+        badges: ["Computer Repair", "SCCM", "ServiceDesk", "MDT"],
         title: "Information Technology Support Specialist",
         logo: ClevertechLogo,
         start: "2008",
