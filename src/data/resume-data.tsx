@@ -121,6 +121,7 @@ export const RESUME_DATA = {
       techStack: [
         "Side Project",
         "Powershell",
+        "Veeam",
       ],
       description: "A PowerShell module to generate an as built report on the configuration of VEEAM Backup & Replication Infrastructure.",
       logo: ConsultlyLogo,
@@ -134,6 +135,7 @@ export const RESUME_DATA = {
         techStack: [
           "Side Project",
           "Powershell",
+          "Active Directory",
         ],
         description: "A PowerShell module to generate an as built report on the configuration of Microsoft Active Directory Infrastructure.",
         logo: ConsultlyLogo,
@@ -141,6 +143,20 @@ export const RESUME_DATA = {
           label: "AsBuiltReport.Microsoft.AD",
           href: "https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD",
         },
-      },
+    },
+      {
+        title: "Veeam Diagrammer",
+        techStack: [
+          "Side Project",
+          "Powershell",
+          "Veeam",
+        ],
+        description: "A powershell module to automatically generate Veeam Backup & Replication resource topology diagrams by just typing a PowerShell cmdlet and passing the name of the Veeam Backup Server",
+        logo: ConsultlyLogo,
+        link: {
+          label: "Veeam.Diagrammer",
+          href: "https://github.com/rebelinux/Veeam.Diagrammer",
+        },
+    },
   ],
 } as const;
