@@ -72,7 +72,7 @@ export const RESUME_DATA = {
       badges: ["Integration","Storage","Server","Networking"],
       title: "Information Technology Consultant",
       logo: ParabolLogo,
-      start: "2021",
+      start: "2019",
       end: "2024",
       description:
         "Develop IT infrastructure design and provide technical solutions option analysis and high-level cost estimate for customer projects.",
