@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "IT Consultant focused on designing & implementing systems with extra attention to detail",
   summary:
     "IT consultant who works for Zen PR Solutions. My primary interest is in infrastructure implementation and management, software development with focus on automation, devops and networking. I am also involved in security and open source contribution aspects of the projects and products I co-maintain.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/1002783?v=4",
   personalWebsiteUrl: "https://techmyth.info/",
   contact: {
     email: "jcolonf@zenprsolutions.com",
@@ -69,8 +69,8 @@ export const RESUME_DATA = {
     {
       company: "ZEN PR SOLUTIONS",
       link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      badges: ["Integration","Storage","Server","Networking"],
+      title: "Information Technology Consultant",
       logo: ParabolLogo,
       start: "2021",
       end: "2024",
