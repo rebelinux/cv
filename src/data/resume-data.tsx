@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Salinas, Puerto Rico",
   locationLink: "https://www.google.com/maps/place/Puerto+Rico",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "IT Consultant focused on designing & implementing systems with extra attention to detail",
   summary:
     "IT consultant who works for Zen PR Solutions. My primary interest is in infrastructure implementation and management, software development with focus on automation, devops and networking. I am also involved in security and open source contribution aspects of the projects and products I co-maintain.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
@@ -53,15 +53,21 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Inter American University of Puerto Rico",
+      degree: "Master's Degree Computer science with Specialization in Network and Security Systems",
+      start: "2012",
+      end: "2020",
+    },    
+    {
+    school: "Inter American University of Puerto Rico",
+    degree: "Bachelor’s Degree Computer system Installation and Repair",
+    start: "2000",
+    end: "2004",
     },
   ],
   work: [
     {
-      company: "Parabol",
+      company: "ZEN PR SOLUTIONS",
       link: "https://parabol.co",
       badges: ["Remote"],
       title: "Senior Full Stack Developer",
