@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "IT consultant who works for Zen PR Solutions. My primary interest is in infrastructure implementation and management, software development with focus on automation, devops and networking. I am also involved in security and open source contribution aspects of the projects and products I co-maintain.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1002783?v=4",
-  personalWebsiteUrl: "https://techmyth.info/",
+  personalWebsiteUrl: "https://techmyth.blog/",
   contact: {
     email: "jcolonf@zenprsolutions.com",
     tel: "1787-203-2790",
@@ -68,7 +68,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Zen PR Solutions",
-      link: "https://techmyth.info/",
+      link: "https://techmyth.blog/",
       badges: ["Integration","Storage","Server","Networking"],
       title: "Information Technology Consultant",
       logo: ParabolLogo,
