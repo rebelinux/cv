@@ -172,7 +172,7 @@ export const RESUME_DATA = {
       certificateId: "b7cbd4d7-e0e6-4b85-8a0a-c6e1a2eed764"
     },
     {
-        name: "Microsoft MCSE: Core Infrastructure - Certified 2020",
+        name: "Microsoft MCSE: Core Infrastructure - Certified",
         providerName: "Microsoft",
         link: "https://www.credly.com/badges/6ac0b159-1e7e-4656-acf2-b49b26571526",
         issueDate: "2020",
@@ -180,7 +180,7 @@ export const RESUME_DATA = {
         certificateId: "6ac0b159-1e7e-4656-acf2-b49b26571526"
     },
     {
-        name: "VMware Certified Advanced Professional - Data Center Virtualization Design 2020",
+        name: "VMware Certified Advanced Professional - Data Center Virtualization Design",
         providerName: "Microsoft",
         link: "https://www.credly.com/badges/1d4ce4ad-0db1-4168-9e2e-9e0640b4f1ad",
         issueDate: "2020",
@@ -188,7 +188,7 @@ export const RESUME_DATA = {
         certificateId: "1d4ce4ad-0db1-4168-9e2e-9e0640b4f1ad"
     },
     {
-        name: "VMware Certified Professional - Desktop and Mobility 2020",
+        name: "VMware Certified Professional - Desktop and Mobility",
         providerName: "Microsoft",
         link: "https://www.credly.com/badges/364cfc52-657e-42cb-9b24-771155a92da8",
         issueDate: "2020",
@@ -196,7 +196,7 @@ export const RESUME_DATA = {
         certificateId: "364cfc52-657e-42cb-9b24-771155a92da8"
     },
     {
-        name: "VMware Certified Professional - Network Virtualization 2020",
+        name: "VMware Certified Professional - Network Virtualization",
         providerName: "Microsoft",
         link: "https://www.credly.com/badges/cd6a2808-0a70-46ba-98a5-bd45b282ff18",
         issueDate: "2020",
@@ -210,15 +210,6 @@ export const RESUME_DATA = {
         issueDate: "2019",
         expirationDate: "N/A",
         certificateId: "c296cdc6-230a-4f17-ae8b-2278e0279906"
-    },
-  ],
-  publication: [
-    {
-      name: "A Block-Chain Based Approach for Food Supply Chain Management",
-      providerName: "IEEE",
-      link: "https://ieeexplore.ieee.org/document/9984473",
-      issueDate: "12/26/2022",
-      description:"This review paper examines many elements of food supply chain management and  how blockchain may be used in supply chain management."
     },
   ],
   Awards: [
