@@ -212,6 +212,8 @@ export const RESUME_DATA = {
         certificateId: "c296cdc6-230a-4f17-ae8b-2278e0279906"
     },
   ],
+  publication: [
+  ],
   Awards: [
     {
       name: "vExpert",
