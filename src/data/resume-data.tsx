@@ -18,6 +18,7 @@ import {
   YearProgressLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { StaticImageData } from "next/image";
 
 export const RESUME_DATA = {
   name: "Jonathan Colón Feliciano",
@@ -55,12 +56,14 @@ export const RESUME_DATA = {
     {
       school: "Inter American University of Puerto Rico",
       degree: "Master's Degree Computer science with Specialization in Network and Security Systems",
+      grade: "4.0",
       start: "2012",
       end: "2020",
     },    
     {
     school: "Inter American University of Puerto Rico",
     degree: "Bachelor’s Degree Computer system Installation and Repair",
+    grade: "4.0",
     start: "2000",
     end: "2004",
     },
@@ -159,4 +162,79 @@ export const RESUME_DATA = {
         },
     },
   ],
+  certification: [
+    {
+      name: "Microsoft Certified: Azure Administrator Associate",
+      providerName: "Microsoft",
+      link: "https://www.credly.com/badges/b7cbd4d7-e0e6-4b85-8a0a-c6e1a2eed764",
+      issueDate: "2021",
+      expirationDate: "2023",
+      certificateId: "b7cbd4d7-e0e6-4b85-8a0a-c6e1a2eed764"
+    },
+    {
+        name: "Microsoft MCSE: Core Infrastructure - Certified 2020",
+        providerName: "Microsoft",
+        link: "https://www.credly.com/badges/6ac0b159-1e7e-4656-acf2-b49b26571526",
+        issueDate: "2020",
+        expirationDate: "2026",
+        certificateId: "6ac0b159-1e7e-4656-acf2-b49b26571526"
+    },
+    {
+        name: "VMware Certified Advanced Professional - Data Center Virtualization Design 2020",
+        providerName: "Microsoft",
+        link: "https://www.credly.com/badges/1d4ce4ad-0db1-4168-9e2e-9e0640b4f1ad",
+        issueDate: "2020",
+        expirationDate: "N/A",
+        certificateId: "1d4ce4ad-0db1-4168-9e2e-9e0640b4f1ad"
+    },
+    {
+        name: "VMware Certified Professional - Desktop and Mobility 2020",
+        providerName: "Microsoft",
+        link: "https://www.credly.com/badges/364cfc52-657e-42cb-9b24-771155a92da8",
+        issueDate: "2020",
+        expirationDate: "N/A",
+        certificateId: "364cfc52-657e-42cb-9b24-771155a92da8"
+    },
+    {
+        name: "VMware Certified Professional - Network Virtualization 2020",
+        providerName: "Microsoft",
+        link: "https://www.credly.com/badges/cd6a2808-0a70-46ba-98a5-bd45b282ff18",
+        issueDate: "2020",
+        expirationDate: "N/A",
+        certificateId: "cd6a2808-0a70-46ba-98a5-bd45b282ff18"
+    },
+    {
+        name: "Veeam Certified Engineer v9 (VMCE)",
+        providerName: "Microsoft",
+        link: "https://www.credly.com/badges/c296cdc6-230a-4f17-ae8b-2278e0279906",
+        issueDate: "2019",
+        expirationDate: "N/A",
+        certificateId: "c296cdc6-230a-4f17-ae8b-2278e0279906"
+    },
+  ],
+  publication: [
+    {
+      name: "A Block-Chain Based Approach for Food Supply Chain Management",
+      providerName: "IEEE",
+      link: "https://ieeexplore.ieee.org/document/9984473",
+      issueDate: "12/26/2022",
+      description:"This review paper examines many elements of food supply chain management and  how blockchain may be used in supply chain management."
+    },
+  ],
+  Awards: [
+    {
+      name: "vExpert",
+      providerName: "VMware",
+      link: "https://vexpert.vmware.com/directory/6271",
+      issueDate: "2020-2023",
+      description:"The annual VMware vExpert title is given to individuals who have significantly contributed to the community of VMware users over the past year. The title is awarded to individuals for their commitment to sharing their knowledge and passion for VMware technology above and beyond their job requirements."
+    },
+    {
+        name: "Vanguard",
+        providerName: "VEEAM",
+        link: "https://www.veeam.com/vanguard.html",
+        issueDate: "2020-2023",
+        description:"Experts in the Vanguard program are a combination of many different disciplines, contribution types and advocacy mechanisms yet are each the best in space regarding technical thought leadership for the technical communities in which Veeam exist."
+      },
+  ]
 } as const;
