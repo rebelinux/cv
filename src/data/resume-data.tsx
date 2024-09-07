@@ -56,14 +56,14 @@ export const RESUME_DATA = {
     {
       school: "Inter American University of Puerto Rico",
       degree: "Master's Degree Computer science with Specialization in Network and Security Systems",
-      grade: "4.0",
+      grade: "3.91",
       start: "2012",
       end: "2020",
     },    
     {
     school: "Inter American University of Puerto Rico",
     degree: "Bachelor’s Degree Computer system Installation and Repair",
-    grade: "4.0",
+    grade: "3.60",
     start: "2000",
     end: "2004",
     },
@@ -224,7 +224,7 @@ export const RESUME_DATA = {
         name: "Vanguard",
         providerName: "VEEAM",
         link: "https://www.veeam.com/vanguard.html",
-        issueDate: "2020-2023",
+        issueDate: "2020-2024",
         description:"Experts in the Vanguard program are a combination of many different disciplines, contribution types and advocacy mechanisms yet are each the best in space regarding technical thought leadership for the technical communities in which Veeam exist."
       },
   ]
